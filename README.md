@@ -564,10 +564,12 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
   <img width="519" alt="image" src="https://github.com/user-attachments/assets/79f69a82-e3f4-4380-9ed7-483b7b929914">
   <img width="335" alt="image" src="https://github.com/user-attachments/assets/a8550600-d890-4633-a907-ed09c1230a61">
 
-  RandomForest_Grouped_Results_Report
+  *RandomForest_Grouped_Results_Report*
+  
   <img width="203" alt="image" src="https://github.com/user-attachments/assets/4a0ee2ee-f618-435e-a506-df87e51992bc">
 
-  RandomForest_Evaluation_Results
+  *RandomForest_Evaluation_Results*
+  
   <img width="173" alt="image" src="https://github.com/user-attachments/assets/ad8b87d2-70b4-4dac-b324-3b5b56f7345a">
 
 
@@ -582,9 +584,13 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
 
 - Train and predict using Prophet Methodology
 
-  
+  <img width="727" alt="image" src="https://github.com/user-attachments/assets/b1656c4f-1bc3-483f-916b-bc5c997e6425">
 
-  Data Source from Prediction Results: [Prophet_ADRO.JK_Prediction.json](https://github.com/ketut-garjita/stock-prediction/blob/main/predictions/Prophet_ADRO.JK_Prediction.json)
+  <img width="604" alt="image" src="https://github.com/user-attachments/assets/ffb57f79-ea70-4409-a82d-f56e9ba80f7d">
+
+  <img width="620" alt="image" src="https://github.com/user-attachments/assets/3e66223b-449a-4222-9d01-e7fb503d625f">
+
+  Data Source from Prediction Results: [Prophet_BBCA.JK_Prediction.json](https://github.com/ketut-garjita/stock-prediction/blob/main/predictions/Prophet_BBCA.JK_Prediction.json)
 
 
 ## Challenges and Considerations
