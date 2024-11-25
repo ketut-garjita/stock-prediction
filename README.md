@@ -513,7 +513,7 @@ Prophet: Individual models for each ticker with time-series insights.
    
    <img width="560" alt="image" src="https://github.com/user-attachments/assets/2715d44a-0803-465e-b0ca-3bcd3f8ac79a">   
 
-7. Connect to EC2 instaance via EC2 Instance Conenct or SSH Client
+7. Connect to EC2 instaance via "EC2 Instance Connect" or "SSH Client"
 
    <img width="495" alt="image" src="https://github.com/user-attachments/assets/67658bcd-3641-4f03-ae0c-982be67efc88">   
    
