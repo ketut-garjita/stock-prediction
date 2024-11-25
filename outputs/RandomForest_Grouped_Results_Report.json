@@ -1,0 +1,17 @@
+{
+    "UpDown": {
+        "ADRO.JK_UpDown": 0.8419540229885057,
+        "BBCA.JK_UpDown": 0.8649425287356322,
+        "TLKM.JK_UpDown": 0.9137931034482759
+    },
+    "DailyReturn": {
+        "ADRO.JK_DailyReturn": 0.5758750800805937,
+        "BBCA.JK_DailyReturn": 0.5574533015171392,
+        "TLKM.JK_DailyReturn": 0.7338476170487839
+    },
+    "Volatility": {
+        "ADRO.JK_Volatility": 0.7618129025784488,
+        "BBCA.JK_Volatility": 0.8119118439170641,
+        "TLKM.JK_Volatility": 0.4383194638175826
+    }
+}

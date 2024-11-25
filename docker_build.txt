@@ -1,0 +1,3 @@
+docker build -t stock-prediction .
+
+docker run -d -p 9696:9696 --name stock-prediction-app stock-prediction
