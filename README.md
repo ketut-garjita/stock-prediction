@@ -302,7 +302,7 @@ stock-prediction
    source env/bin/activate
    ```
    
-5. Re-install Qt Plugins for plt.show display
+5. Re-install Qt Plugins for plt.show() display
    ```
    sudo apt update
    sudo apt-get install --reinstall qt5-qmake qtbase5-dev qtchooser
