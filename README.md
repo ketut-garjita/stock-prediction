@@ -332,9 +332,9 @@ stock-prediction
    ```
 
 10. Install or Upgrade Pillow
-   ```
-   pip install --upgrade --force-reinstall Pillow
-   ```
+    ```
+    pip install --upgrade --force-reinstall Pillow
+    ```
    
 11. Train models
      ```
