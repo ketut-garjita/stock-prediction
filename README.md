@@ -281,10 +281,10 @@ stock-prediction
 
 1. Install venv or virtualenv
    venv comes pre-installed with Python 3.3 and above. If it's not available, you can install virtualenv:
-   ```
-   sudo apt-get install python3-venv
-
-   ```
+    ```
+    sudo apt-get install python3.11-venv
+    sudo apt-get install python3.11-distutils
+    ```
 
 2. Create the Environment
    ```
@@ -292,45 +292,53 @@ stock-prediction
    ```
    This will create a virtual environment in the env directory.
 
-3. Activate the Environment
-   ```
-   source env/bin/activate
-   ```
-
-4. Add line export PATH=~/.local/bin:$PATH to ~/.bashrc file
+3. Add line export PATH=~/.local/bin:$PATH to ~/.bashrc file
    ```
    echo "export PATH=~/.local/bin:$PATH" >> ~/.bashrc
    ```
 
-5. Activate the Changes
+4. Activate the Environment
    ```
-   source ~/.bashrc
+   source env/bin/activate
    ```
-
-6. Re-install Qt Plugins for plt.show display
+   
+5. Re-install Qt Plugins for plt.show display
    ```
+   sudo apt update
    sudo apt-get install --reinstall qt5-qmake qtbase5-dev qtchooser
+   pip install PyQt5
    ```   
 
+6. Install tkinter 
+   ```
+   sudo apt-get update
+   sudo apt-get install python3-tk
+   ```
+   
 7. Clone the repository
    ```
-   git clone https://github.com/ketut-garjita/stock-prediction.git  
-   cd stock-prediction
+   sudo git clone https://github.com/ketut-garjita/stock-prediction.git
+   ```
+   
+8. Change ownership
+   ```
+   sudp chown <user>:<group> -R stock-prediction
    ```
 
-8. Install dependencies
+9. Install dependencies
    ```
+   cd stock-prediction
    pip install -r requirements.txt  
    ```
 
-9. Install Pillow
+10. Install or Upgrade Pillow
    ```
    pip install --upgrade --force-reinstall Pillow
    ```
    
-10. Train models
+11. Train models
      ```
-     cd stock-prediction/code
+     cd code
      ```
 
      *Random Forest*
@@ -348,7 +356,7 @@ stock-prediction
      python train_Prophet.py
      ```
 
-11. Run predictions
+12. Run predictions
 
      *Random Forest*
      ```
