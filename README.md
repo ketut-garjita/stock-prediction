@@ -458,9 +458,6 @@ Prophet: Individual models for each ticker with time-series insights.
 ├── Prophet_TLKM.JK.pkl
 └── RandomForest_stock_models.pkl
 ```
-*Note:*
-
-Due to the file size limitations allowed on Github, the RandomForest_stock_models.pkl model file cannot be uploaded to Github. You can get it after running python train_RandomForest.py.
 
 
 ## Predictions
