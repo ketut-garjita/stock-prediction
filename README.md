@@ -555,12 +555,10 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
 
 - Train and predict using Random Forest Methodology
 
-  <img width="253" alt="image" src="https://github.com/user-attachments/assets/1cc669dd-97e6-405e-b3de-7f80e4aa2033">
-  <img width="254" alt="image" src="https://github.com/user-attachments/assets/eee7ddc2-62f3-4b40-910f-3c4205ebabab">
+  <img width="281" alt="image" src="https://github.com/user-attachments/assets/6e6cb5d1-5280-41fc-8693-f47544430117">
+  <img width="283" alt="image" src="https://github.com/user-attachments/assets/7477ad68-a6d0-4819-b931-1c1e779ab79d">
 
 
-  <img width="395" alt="image" src="https://github.com/user-attachments/assets/9cf3b360-b389-4028-83a6-6cf2c3baaff2">
-  <img width="254" alt="image" src="https://github.com/user-attachments/assets/27a14371-e424-4efa-9546-eafeae47b9e9">
 
 
 
