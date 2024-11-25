@@ -526,8 +526,6 @@ Due to the file size limitations allowed on Github, the RandomForest_stock_model
 9. Install libraries listed in requiremenets.txt
    ```
    sudo pip3 install -r requirements.txt
-   ```
-   <img width="671" alt="image" src="https://github.com/user-attachments/assets/cd007bdf-9845-4d76-97a6-0e29ff0ec42d">
 
 10. Review libraries installed
     ```
