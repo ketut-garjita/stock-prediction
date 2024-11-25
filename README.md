@@ -398,7 +398,7 @@ stock-prediction
    python predict_Prophet.py
    ```
 
-5, Review output results in outputs/, model results in models/ and preictions results in predictions/ directory
+5, Review output results in outputs/, model results in models/ and predictions results in predictions/ directory
    
 6. Open port 9696
     ```
