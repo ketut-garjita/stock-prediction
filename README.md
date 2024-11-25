@@ -322,7 +322,7 @@ stock-prediction
    
 8. Change ownership
    ```
-   sudp chown <user>:<group> -R stock-prediction
+   sudo chown <user>:<group> -R stock-prediction
    ```
 
 9. Install dependencies
