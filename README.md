@@ -522,7 +522,7 @@ Due to the file size limitations allowed on Github, the RandomForest_stock_model
    
 8. Clone reposistory
    ```
-   git clone
+   git clone https://github.com/ketut-garjita/stock-prediction.git
    ```
    
 9. Change ownership
