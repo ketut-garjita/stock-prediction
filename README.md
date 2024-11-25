@@ -277,7 +277,7 @@ stock-prediction
 
 ### Local Setup
 
-*Note: Steps 1 - 5 can be passed if using installed conda environment*
+*Note: Steps 1 - 4 can be passed if using conda environment*
 
 1. Install venv or virtualenv
    venv comes pre-installed with Python 3.3 and above. If it's not available, you can install virtualenv:
