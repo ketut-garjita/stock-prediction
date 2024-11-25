@@ -524,14 +524,14 @@ Prophet: Individual models for each ticker with time-series insights.
    ```
    
 9. Change ownership
-   ```
-   sudo chown ubuntu:ubuntu -R stock-prediction/
-   ```
+    ```
+    sudo chown ubuntu:ubuntu -R stock-prediction/
+    ```
    
 10. Install libraries listed in requiremenets.txt
-   ```
-   sudo pip3 install -r requirements.txt
-   ```
+    ```
+    sudo pip3 install -r requirements.txt
+    ```
 
 11. Review libraries installed
     ```
