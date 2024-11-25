@@ -557,7 +557,7 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
 
 **Exmples**
 
-- Train and predict using Random Forest Methodology
+- Random Forest Results Visualization
 
   <img width="337" alt="image" src="https://github.com/user-attachments/assets/9cf85e67-27c0-41c2-b1bd-fd1a5c2277d0">
   <img width="335" alt="image" src="https://github.com/user-attachments/assets/d493241f-2e5f-4ffc-9833-3916eacfbd73">
@@ -577,7 +577,7 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
   <img width="173" alt="image" src="https://github.com/user-attachments/assets/ad8b87d2-70b4-4dac-b324-3b5b56f7345a">
 
 
-- Train and predict using LSTM Methodology
+- LSTM Methodology Results Visualization
 
   <img width="603" alt="image" src="https://github.com/user-attachments/assets/c657d6d2-e424-4c64-9e9f-da766fbacbcd">
 
@@ -586,7 +586,7 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
   <img width="607" alt="image" src="https://github.com/user-attachments/assets/0cc7a348-fb99-49ef-8a7f-42ad552e4cb6">
 
 
-- Train and predict using Prophet Methodology
+- Prophet Methodology Results Visualization
 
   <img width="727" alt="image" src="https://github.com/user-attachments/assets/b1656c4f-1bc3-483f-916b-bc5c997e6425">
 
