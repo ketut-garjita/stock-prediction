@@ -299,7 +299,7 @@ stock-prediction
 
 4. Add line export PATH=~/.local/bin:$PATH to ~/.bashrc file
    ```
-   echo "export PATH=~/.local/bin:\$PATH" >> ~/.bashrc
+   echo "export PATH=~/.local/bin:$PATH" >> ~/.bashrc
    ```
 
 5. Activate the Changes
