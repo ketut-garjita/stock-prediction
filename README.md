@@ -558,6 +558,13 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
   <img width="281" alt="image" src="https://github.com/user-attachments/assets/6e6cb5d1-5280-41fc-8693-f47544430117">
   <img width="283" alt="image" src="https://github.com/user-attachments/assets/7477ad68-a6d0-4819-b931-1c1e779ab79d">
 
+  <img width="337" alt="image" src="https://github.com/user-attachments/assets/9cf85e67-27c0-41c2-b1bd-fd1a5c2277d0">
+  <img width="335" alt="image" src="https://github.com/user-attachments/assets/d493241f-2e5f-4ffc-9833-3916eacfbd73">
+
+  <img width="520" alt="image" src="https://github.com/user-attachments/assets/733cd70f-a67c-4ec8-a11f-8bc2cb37112f">
+  <img width="337" alt="image" src="https://github.com/user-attachments/assets/19bea849-0028-4407-ad20-539ff75c1bad">
+
+
 
 
 
