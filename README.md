@@ -555,44 +555,19 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
 
 - Train and predict using Random Forest Methodology
 
-   <img width="350" alt="image" src="https://github.com/user-attachments/assets/2e37e2eb-96ab-4357-ab17-03452b6ace04">
-   <img width="350" alt="image" src="https://github.com/user-attachments/assets/61708b18-463a-4e63-bc57-1da51495afaa">
-   
-   <img width="545" alt="image" src="https://github.com/user-attachments/assets/ed360efe-936e-469b-99c2-f37f5105f647">
-   <img width="350" alt="image" src="https://github.com/user-attachments/assets/9280b9ba-65a1-43ac-9f3d-7d34dd400dd7">
+  <img width="253" alt="image" src="https://github.com/user-attachments/assets/1cc669dd-97e6-405e-b3de-7f80e4aa2033">
+  <img width="254" alt="image" src="https://github.com/user-attachments/assets/eee7ddc2-62f3-4b40-910f-3c4205ebabab">
 
-   <img width="545" alt="image" src="https://github.com/user-attachments/assets/daa9ce64-9e91-4393-82f4-d0155fd076d0">
-   <img width="350" alt="image" src="https://github.com/user-attachments/assets/29b33606-3c5a-40a7-a950-9c07ebc429d2">
+  <img width="395" alt="image" src="https://github.com/user-attachments/assets/9cf3b360-b389-4028-83a6-6cf2c3baaff2">
+  <img width="254" alt="image" src="https://github.com/user-attachments/assets/27a14371-e424-4efa-9546-eafeae47b9e9">
 
-   RandomForest_Grouped_Results_Report
-   <img width="246" alt="image" src="https://github.com/user-attachments/assets/a0493072-0be6-4e00-aa98-49b4773c4d0b">
-
-   RandomForest_Evaluation_Results
-   <img width="208" alt="image" src="https://github.com/user-attachments/assets/4d88fd04-7a10-4b86-b39d-f069f3755dc7">
 
 
 
 - Train and predict using LSTM Methodology
 
-  <img width="550" alt="image" src="https://github.com/user-attachments/assets/4315c134-b0f1-46be-b074-e5e2d8c14027">
-
-  <img width="550" alt="image" src="https://github.com/user-attachments/assets/bc6d3e66-fc96-42c2-9e77-6ba3d9d31072">
 
   
-
-
-
-
-  <img width="725" alt="image" src="https://github.com/user-attachments/assets/6ae5c1af-1a76-4876-8c3a-e4361566b2da">
-
-  <img width="605" alt="image" src="https://github.com/user-attachments/assets/96b9f993-fd5a-49ce-9347-23ba880d3cf7">
-
-  <img width="605" alt="image" src="https://github.com/user-attachments/assets/dc48536b-53b2-4154-a965-8e467a05b7c5">
-
-  <img width="396" alt="image" src="https://github.com/user-attachments/assets/26e90bab-a9b0-4625-86c7-201146d05026">
-
-  <img width="606" alt="image" src="https://github.com/user-attachments/assets/805faffd-e6f6-46eb-a35e-e12c9aa8537f">
-
   
 
 - Train and predict using Prophet Methodology
