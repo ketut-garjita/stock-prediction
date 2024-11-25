@@ -561,25 +561,28 @@ Visualizations: Incorporate visualizations (compusion matrix, feature importance
   <img width="520" alt="image" src="https://github.com/user-attachments/assets/733cd70f-a67c-4ec8-a11f-8bc2cb37112f">
   <img width="337" alt="image" src="https://github.com/user-attachments/assets/19bea849-0028-4407-ad20-539ff75c1bad">
 
+  <img width="519" alt="image" src="https://github.com/user-attachments/assets/79f69a82-e3f4-4380-9ed7-483b7b929914">
+  <img width="335" alt="image" src="https://github.com/user-attachments/assets/a8550600-d890-4633-a907-ed09c1230a61">
 
+  RandomForest_Grouped_Results_Report
+  <img width="203" alt="image" src="https://github.com/user-attachments/assets/4a0ee2ee-f618-435e-a506-df87e51992bc">
 
-
-
+  RandomForest_Evaluation_Results
+  <img width="173" alt="image" src="https://github.com/user-attachments/assets/ad8b87d2-70b4-4dac-b324-3b5b56f7345a">
 
 
 - Train and predict using LSTM Methodology
 
+  <img width="603" alt="image" src="https://github.com/user-attachments/assets/c657d6d2-e424-4c64-9e9f-da766fbacbcd">
 
-  
-  
+  <img width="605" alt="image" src="https://github.com/user-attachments/assets/1fec7786-0cdc-413b-a950-370421d13e8b">
+
+  <img width="607" alt="image" src="https://github.com/user-attachments/assets/0cc7a348-fb99-49ef-8a7f-42ad552e4cb6">
+
 
 - Train and predict using Prophet Methodology
 
-  <img width="674" alt="image" src="https://github.com/user-attachments/assets/167bf3b7-1534-4892-bf81-5e1907d41e75">
-
-  <img width="725" alt="image" src="https://github.com/user-attachments/assets/f22ca175-68aa-41ea-809e-f04d81a08a6c">
-
-  <img width="654" alt="image" src="https://github.com/user-attachments/assets/cf885e08-e6cf-4795-9f70-0cf255f16bd8">
+  
 
   Data Source from Prediction Results: [Prophet_ADRO.JK_Prediction.json](https://github.com/ketut-garjita/stock-prediction/blob/main/predictions/Prophet_ADRO.JK_Prediction.json)
 
