@@ -519,6 +519,7 @@ Prophet: Individual models for each ticker with time-series insights.
    
 8. Clone reposistory
    ```
+   cd
    git clone https://github.com/ketut-garjita/stock-prediction.git
    ```
    
