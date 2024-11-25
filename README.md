@@ -505,44 +505,52 @@ Due to the file size limitations allowed on Github, the RandomForest_stock_model
    
    Edit the variable.tf file according to the variable values ​​you have such as: aws_region, ami_name, key_name, instance_type, ec2_instance_name, ip_cidr_blocks.
 
-5. Deploy an EC2 instance by exeecute terraform commands
+5. Deploy an EC2 instance by executing terraform commands
    ```
    terraform init
    terraform plan
    terraform apply
    ```
-6. Connect to EC2 instaance via EC2 Instance Conenct or SSH Client
+
+6. Check EC2 instance status
    
-7. Clone reposistory
+   <img width="560" alt="image" src="https://github.com/user-attachments/assets/2715d44a-0803-465e-b0ca-3bcd3f8ac79a">   
+
+7. Connect to EC2 instaance via EC2 Instance Conenct or SSH Client
+
+   <img width="495" alt="image" src="https://github.com/user-attachments/assets/67658bcd-3641-4f03-ae0c-982be67efc88">   
+   
+8. Clone reposistory
    ```
    git clone
    ```
    
-8. Change ownership
+9. Change ownership
    ```
    sudo chown ubuntu:ubuntu -R stock-prediction/
    ```
    
-9. Install libraries listed in requiremenets.txt
+10. Install libraries listed in requiremenets.txt
    ```
    sudo pip3 install -r requirements.txt
+   ```
 
-10. Review libraries installed
+11. Review libraries installed
     ```
     sudo pip3 list
     ```
    
-11. Try train model
+12. Try train model
     ```
     python3 train_Prophet.py
     ```
 
-12. Run predict
+13. Run predict
     ```
     python3 predict_Prophet.py
     ```
     
-13. Review output and prediction results in ../outputs and ../models directory differently
+14. Review output and prediction results in ../outputs and ../models directory differently
     
 
 ## Visualizations
