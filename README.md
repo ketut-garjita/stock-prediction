@@ -563,7 +563,7 @@ Prophet: Individual models for each ticker with time-series insights.
 
 Visualizations: Incorporate visualizations (compusion matrix, feature importance, residual, model performance graphs, time series prediction, predicted future price) to enhance understanding.
 
-**Exmples**
+**Examples**
 
 - Random Forest Results Visualization
 
