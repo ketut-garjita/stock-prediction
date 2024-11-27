@@ -120,7 +120,7 @@ prediction formats]
 
 ## Code Functions
 
-### Data Preparation
+### Data Preparation and Features Selection
   - Create dataset by downloading data from Yahoo Finance using yfinance
   - Check for any missing values
   - Data Cleaning and Preprocessing
