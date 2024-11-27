@@ -130,7 +130,7 @@ prediction formats]
   - Targets and Features Engineering
   - Define Targets and Features for every Ticker
 
-  [Noetepad source code](https://github.com/ketut-garjita/stock-prediction/blob/main/code/notebook.ipynb)
+  [Notebook source code](https://github.com/ketut-garjita/stock-prediction/blob/main/code/notebook.ipynb)
     
 ### Random Forest
 
