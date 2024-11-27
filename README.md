@@ -393,6 +393,14 @@ stock-prediction
 4. Execute train and predict model via stock-prediction-app container
    ```
    docker exec -it stock-prediction-app bash
+
+   # Re-install Qt Plugins, PyQt, Pillow
+   # for plt.show() display
+   sudo apt update
+   sudo apt-get install --reinstall qt5-qmake qtbase5-dev qtchooser
+   pip install PyQt5
+   pip install --upgrade --force-reinstall Pillow
+
    cd code
    python --version
 
@@ -546,17 +554,25 @@ Prophet: Individual models for each ticker with time-series insights.
     sudo pip3 list
     ```
    
-12. Try train model
+12. Install Qt Plugins, PyQt, Pillow for plt.show() display
+    ```
+    sudo apt update
+    sudo apt-get install --reinstall qt5-qmake qtbase5-dev qtchooser
+    pip install PyQt5
+    pip install --upgrade --force-reinstall Pillow
+    ```
+
+13. Try train model
     ```
     python3 train_Prophet.py
     ```
 
-13. Run predict
+14. Run predict
     ```
     python3 predict_Prophet.py
     ```
     
-14. Review output and prediction results in ../outputs and ../models directory differently
+15. Review output and prediction results in ../outputs and ../models directory differently
     
 
 ## Visualizations
