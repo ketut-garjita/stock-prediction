@@ -120,6 +120,18 @@ prediction formats]
 
 ## Code Functions
 
+### Data Preparation
+  - Create dataset by downloading data from Yahoo Finance using yfinance
+  - Check for any missing values
+  - Data Cleaning and Preprocessing
+  - Summary of data types
+  - Get summary statistics for numerical columns
+  - Exploratory Data Analysis (EDA)
+  - Targets and Features Engineering
+  - Define Targets and Features for every Ticker
+
+  [Source code](https://github.com/ketut-garjita/stock-prediction/blob/main/code/notebook.ipynb)
+    
 ### Random Forest
 
 Targets and Features Selections (Engineering)
