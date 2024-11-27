@@ -416,8 +416,8 @@ stock-prediction
    python predict_Prophet.py
    ```
 
-6, Review output results in outputs/, model results in models/ and predictions results in predictions/ directory
-   
+6. Review output results in outputs/, model results in models/ and predictions results in predictions/ directory
+
 7. Open port 9696
     ```
     sudo ufw enable    # if Firewall is not active and enabled on system startup
