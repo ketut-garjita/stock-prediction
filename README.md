@@ -390,17 +390,19 @@ stock-prediction
    docker ps
    ```
 
-4. Execute train and predict model via stock-prediction-app container
+4. Setup additional libraries
    ```
    docker exec -it stock-prediction-app bash
 
-   # Re-install Qt Plugins, PyQt, Pillow
-   # for plt.show() display
-   sudo apt update
-   sudo apt-get install --reinstall qt5-qmake qtbase5-dev qtchooser
+   # Re-install Qt Plugins, PyQt, Pillow for plt.show() display
+   apt update
+   apt-get install --reinstall qt5-qmake qtbase5-dev qtchooser
    pip install PyQt5
    pip install --upgrade --force-reinstall Pillow
+   ```
 
+5. Execute train and predict model via stock-prediction-app container
+   ```
    cd code
    python --version
 
@@ -414,9 +416,9 @@ stock-prediction
    python predict_Prophet.py
    ```
 
-5, Review output results in outputs/, model results in models/ and predictions results in predictions/ directory
+6, Review output results in outputs/, model results in models/ and predictions results in predictions/ directory
    
-6. Open port 9696
+7. Open port 9696
     ```
     sudo ufw enable    # if Firewall is not active and enabled on system startup
     sudo ufw status
@@ -424,7 +426,7 @@ stock-prediction
     sudo ufw status
     ```
     
-7. Open application
+8. Open application
    ```
    http://localhost:9696
    ```
