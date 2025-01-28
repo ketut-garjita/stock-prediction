@@ -4,18 +4,22 @@
 
 ## Introduction
 
-- **Background**: Completing the Midterm Project Assignment of Machine Learning - Zoomcamp 2024.
+- **Background**: 
 
-- **Problem Statement**: This project is a Machine Learning-based stock price prediction system for three major Indonesian stocks: ADRO.JK ([Adaro Energy](https://www.adaro.com/)), BBCA.JK ([BCA Bank](https://www.bca.co.id/)), and TLKM.JK ([Tekom Indonesia](https://www.telkom.co.id/sites)). The project utilizes Random Forest, LSTM, and Prophet methodologies to analyze historical stock data, generate predictions, and visualize results.
+  This project was undertaken as part of the Midterm Project Assignment for the Machine Learning Zoomcamp 2024.
+
+- **Problem Statement**: 
   
+This project focuses on developing a Machine Learning-based stock price prediction system for three major Indonesian stocks: ADRO.JK ([Adaro Energy](https://www.adaro.com/)), BBCA.JK ([BCA Bank](https://www.bca.co.id/)), and TLKM.JK ([Tekom Indonesia](https://www.telkom.co.id/sites)). The system leverages methodologies such as Random Forest, LSTM, and Prophet to analyze historical stock data, generate predictions, and visualize the results.
 
-## Project Overview
-The goal of this project is to:
+## Objectives
 
-Predict future stock price trends such as price increase or decrease, daily result, volatility, comparison actual vs prediction.
-Provide time-series predictions for stock prices using advanced methods like LSTM and Prophet.
-Generate insightful plots comparing historical actual prices with predicted prices.
-Build a Dockerized solution that can be deployed on cloud services (AWS EC2).
+Predict future stock price trends, including price increases or decreases, daily results, and volatility.
+Compare actual stock prices with predicted values.
+Provide time-series stock price predictions using advanced methods like LSTM and Prophet.
+Generate insightful visualizations comparing historical actual prices with predicted prices.
+Build a Dockerized solution deployable on cloud platforms such as AWS EC2.
+
 
 
 ## Data Description
