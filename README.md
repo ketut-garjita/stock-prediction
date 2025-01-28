@@ -10,7 +10,7 @@
 
 - **Problem Statement**: 
   
-This project focuses on developing a Machine Learning-based stock price prediction system for three major Indonesian stocks: ADRO.JK ([Adaro Energy](https://www.adaro.com/)), BBCA.JK ([BCA Bank](https://www.bca.co.id/)), and TLKM.JK ([Tekom Indonesia](https://www.telkom.co.id/sites)). The system leverages methodologies such as Random Forest, LSTM, and Prophet to analyze historical stock data, generate predictions, and visualize the results.
+  This project focuses on developing a Machine Learning-based stock price prediction system for three major Indonesian stocks: ADRO.JK ([Adaro Energy](https://www.adaro.com/)), BBCA.JK ([BCA Bank](https://www.bca.co.id/)), and TLKM.JK ([Tekom Indonesia](https://www.telkom.co.id/sites)). The system leverages methodologies such as Random Forest, LSTM, and Prophet to analyze historical stock data, generate predictions, and visualize the results.
 
 ## Objectives
 
